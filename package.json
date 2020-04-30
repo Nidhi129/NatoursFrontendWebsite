@@ -9,7 +9,7 @@
   	"compile:sass": "node-sass sass/main.scss css/style.css -w"
   }, 
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.12.0"
   }
 }
